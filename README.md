@@ -14,9 +14,9 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  💬 Ask me anything about from <a href="https://github.com/PK-LetsDev/MyProfile/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/PK-LetsDev/PK-LetsDev/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">prodsong12@gmail.com</a>
+  📫 How to reach me: <a href="mailto: prodsong12@gmail.com">prodsong12@gmail.com</a>
 </p>
 
 <hr>
@@ -44,7 +44,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=PK-LetsDev&theme=react&border=61dafb&hide_border=true" alt="MyProflie" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=PK-LetsDev&theme=react&border=61dafb&hide_border=true" alt="PK-LetsDev" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=PK-LetsDev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
@@ -94,6 +94,6 @@ Here are some ideas to get you started:
 
 Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
 
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/PK-LetsDev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
 
 -->
