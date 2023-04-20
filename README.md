@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm Prod Karoonpos,I am a beginner Fullstack form Thailand
+  Hi, I'm Prod Karoonpos,I am a beginner Fullstack Developer form Thailand
   <br>
   🎓 I graduated from  Siam Technology College Computer Programmer Department.
   <br>
