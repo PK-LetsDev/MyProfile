@@ -14,9 +14,9 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  💬 Ask me anything about from <a href="https://github.com/PK-LetsDev/MyProfile/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/PK-LetsDev/PK-LetsDev/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">prodsong12@gmail.com</a>
+  📫 How to reach me: <a href="mailto: prodsong12@gmail.com">prodsong12@gmail.com</a>
 </p>
 
 <hr>
@@ -44,7 +44,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=PK-LetsDev&theme=react&border=61dafb&hide_border=true" alt="MyProflie" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=PK-LetsDev&theme=react&border=61dafb&hide_border=true" alt="PK-LetsDev" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=PK-LetsDev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
