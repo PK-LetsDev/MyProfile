@@ -23,19 +23,19 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="C#" height="25" src="Images/cSharp.svg"></code>
+  <code><img title="Javascript" height="25" src="Images/javascript.svg"></code>
+  <code><img title="HTML5" height="25" src="Images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="Images/css.svg"></code>
+  <code><img title="Git" height="25" src="Images/git-original.svg"></code>
+  <code><img title=".NetCore" height="25" src="Images/dotnetcore.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="Images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="Images/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="Images/jquery-original.svg"></code>
+  <code><img title="JSON" height="25" src="Images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="Images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="Images/mysql.svg"></code>
+  <code><img title="PHP" height="25" src="Images/php.svg"></code>
 </p>
 <hr>
 
