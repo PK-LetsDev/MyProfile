@@ -64,7 +64,7 @@
 <hr>
 <h4>🛠️ My Projects 🛠️</h4>
 <br>
-<a href="http://192.168.1.191/Calculation">Solar Calculation</a>
+<a href="http://192.168.1.191/Calculation">Solarcell Calculation</a>
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
