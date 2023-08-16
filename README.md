@@ -58,7 +58,7 @@
   </div>
   <br>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PK-LetsDev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <!--<img src="https://github-readme-activity-graph.cyclic.app/graph?username=PK-LetsDev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>-->
 </p>
 
 <hr>
