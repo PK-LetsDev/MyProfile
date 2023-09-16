@@ -43,7 +43,7 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <a href="https://streak-stats.demolab.com/?user=PK-LetsDev&theme=dark" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=PK-LetsDev&theme=react&border=61dafb&hide_border=true" alt="PK-LetsDev" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
@@ -63,8 +63,9 @@
 
 <hr>
 <h4>🛠️ My Projects 🛠️</h4>
+<a href="https://boi.pedd.tech/Auth/SignIn">Boi System</a>
 <br>
-<a href="http://192.168.1.191/auth">Boi System</a>
+<a href="https://solar.pedd.tech/">Solar Calculation System</a>
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
